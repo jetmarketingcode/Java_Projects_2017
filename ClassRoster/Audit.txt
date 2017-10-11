@@ -1,0 +1,8 @@
+2017-05-25T16:19:59.147 : Student 111111 CREATED.
+2017-06-02T11:51:58.108 : createStudent: ID: 100004 |Name: john mikelo |Cohort: Summer
+2017-06-02T12:30:11.590 : removeStudent: 100004
+2017-06-05T15:13:21.050 : createStudent: ID: 10004 |Name: john michaels |Cohort: spring
+2017-06-05T15:16:19.754 : createStudent: ID: tom car |Name: j jar |Cohort: winter
+2017-06-05T16:17:38.794 : createStudent: ID: 10005 |Name: troy tarbuck |Cohort: spring
+2017-06-05T16:18:47.361 : createStudent: ID: 20005 |Name: parse parks |Cohort: march
+2017-09-11T15:47:39.335 : createStudent: ID: 2000101 |Name: jummy kisson |Cohort: spring

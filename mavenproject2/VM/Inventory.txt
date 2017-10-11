@@ -1,0 +1,4 @@
+Snickers::0.50::7
+Coke::0.75::12
+Reeses::0.60::11
+Milky Way::0.65::12

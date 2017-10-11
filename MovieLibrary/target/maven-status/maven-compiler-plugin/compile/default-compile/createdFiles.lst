@@ -1,0 +1,9 @@
+Movie/ui/MovieUserIO.class
+MovieController/MovieController.class
+Movie/dao/MovieDAOException.class
+Movie/dao/MovieDAOFileImpl.class
+Movie/dto/Movie.class
+com/sg/movielibrary/MovieApp.class
+Movie/ui/MovieView.class
+Movie/dao/MovieDAO.class
+Movie/ui/MovieUserIOConsoleImpl.class
